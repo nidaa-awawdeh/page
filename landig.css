@@ -1,0 +1,99 @@
+ img {
+     margin: 100px 100px ;
+      margin-left: 10px;
+      width: 1000px;
+ }
+
+  html {
+      font-size: large;
+      font: bold 18px black ;
+        background-image: linear-gradient(to bottom left, rgb(214, 127, 127), rgb(195, 195, 163));
+  }
+
+   h1 ,h2,h3 {
+      
+    color: brown;
+          
+   }
+   body {
+  
+        margin: 50px 50px;
+   }
+
+    ul  li{
+        list-style-type: circle ;
+        
+    }
+
+     #name {
+          font-size: 48px;
+          
+             text-shadow: 20px 20px 1px rgb(187, 161, 161);
+           
+     }
+     
+     #atheer {
+          width: 500px;
+          height: 300px;
+           margin-left: 90px;
+            border: 2px solid black;
+     }
+
+     #logo {
+         width: 100px;
+          height: 90px;
+           margin-left: 20px;
+            margin-top: 5px;
+     }
+      nav {
+       
+           width:900px ;
+           height: 200px;
+            margin-left: 10px;
+            background-color:  #D2D5F3;
+      }
+       nav p {
+           margin-left: 300px;
+            color: brown;
+            
+             
+       }
+
+      .column {
+  float: left;
+  width: 40%;
+ 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ footer li {
+ margin-left: 500px;
+   list-style-type: none ;
+
+ margin-left: 50px;
+ }
+  footer {
+      width: 1200px;
+         
+  }
+
+   footer ul {
+        margin-left:400px;
+        padding-left: 2px;
+       
+   }
+
+.column {
+
+       padding: 10px 20px;
+           background-color:  #D2D5F3;
+            border:  2px black solid;
+       
+       
+  }
